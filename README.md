@@ -1,9 +1,5 @@
 # 🤖 AI Chatbot - Advanced Conversational Assistant
 
-[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://python.org)
-[![Gemini AI](https://img.shields.io/badge/Powered%20by-Google%20Gemini-orange.svg)](https://ai.google.dev)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 > An intelligent, feature-rich chatbot powered by Google Gemini AI with advanced capabilities including file uploads, voice interaction, conversation management, and a beautiful modern interface with dark/light themes.
 
 ## ✨ Key Features
@@ -154,32 +150,4 @@ AI_Bot/
 - **Intelligent Processing**: Advanced AI with file understanding capabilities
 - **Visual Polish**: Beautiful animations and smooth interactions
 
-## 🤝 Contributing
 
-We welcome contributions! Whether it's bug reports, feature requests, or code improvements:
-
-1. **Report Issues**: Found a problem? Let us know with detailed information
-2. **Suggest Features**: Have ideas for improvements? Share them!
-3. **Submit Code**: Pull requests welcome for enhancements
-4. **Improve Docs**: Help make documentation even better
-
-## 📝 License
-
-This project is licensed under the MIT License - feel free to use, modify, and distribute.
-
-## 🙏 Acknowledgments
-
-- **Google Gemini AI** for providing the advanced language model
-- **Web Speech API** for voice recognition and synthesis capabilities
-- **Font Awesome** for beautiful icons throughout the interface
-- **Google Fonts** for the Inter typeface
-
----
-
-<div align="center">
-
-**Built with ❤️ for intelligent conversations**
-
-*September 2025 - Advanced AI Chatbot with Modern Features*
-
-</div>
